@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="Images/JH-Assets-Banner_Thin.png" /></a>
+<img align="center" src="profile/Images/JH-Assets-Banner_Thin.png" /></a>
 
 ## The Ingredients and Tools with which my [**`Laboratory🎮`**](https://github.com/Joknaa) operates !
 
